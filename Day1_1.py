@@ -1,7 +1,5 @@
 
-count = 1
 values = []
-newlist = []
 amount = 0
 total_calories = 0
 
